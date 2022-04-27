@@ -1,6 +1,27 @@
+header{
+    font-size: 18px;
+}
 .black-part{
     background-color: black;
 }
 .black-part img{
-    max-width: 100%;
+    width: 100px;
+}
+.sessanta{
+    width: 60%;
+    display: flex;
+    align-items: center;
+}
+.quaranta{
+    width: 40%;
+}
+.bottone{
+    border: solid 1px white;
+    border-radius: 20px;
+    padding: 4px;
+    background-color: #363636;
+}
+header .fa-magnifying-glass{
+    color: #363636;
+    margin-left: 5px;
 }
