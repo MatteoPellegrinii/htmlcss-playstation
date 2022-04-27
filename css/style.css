@@ -25,3 +25,45 @@ header .fa-magnifying-glass{
     color: #363636;
     margin-left: 5px;
 }
+.jumbotron{
+    background-image: url(../img/img/jumbo-bg.png) ;
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+}
+.jumbo{
+    padding-top: 100px;
+    padding-left: 30px;
+
+}
+.jumbotron img{
+    width: 200px;
+}
+.jumbotron h2{
+    margin-left: 1%;
+    margin-top: 2%;
+    font-size: 50px;
+    color: whitesmoke;
+}
+.jumbotron p{
+    margin-left: 1%;
+    margin-top: 2%;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+}
+.jumbotron .bottone{
+    background-color: #cd3d0f;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-top: 10px;
+}
+.immagini-giochi{
+    width: 100%;
+    margin: 30px 0;
+}
+.playstation5 h6{
+    color: blue;
+}
