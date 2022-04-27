@@ -64,6 +64,62 @@ a{
     width: 100%;
     margin: 30px 0;
 }
-.playstation5 h6{
+.playstation5 h5{
     color: blue;
+}
+.playstation5 h2{
+    font-size: 40px;
+}
+.playstation5 h6{
+    color: grey;
+    font-size: 19px;
+}
+img{
+    width: 100%;
+}
+.playstation5 .blue-button{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 20px;
+}
+.special{
+    border-bottom: solid 2px blue;
+}
+.mid-page{
+    background-image: url(../img/img/it-takes-two-hero-banner-desktop.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+    margin-top: 30px;
+}
+.mid-page img{
+    width: 200px;
+}
+.mid-page h2{
+    margin-left: 1%;
+    font-size: 40px;
+    color: whitesmoke;
+}
+.mid-page p{
+    margin-left: 1%;
+    margin-top: 2%;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+}
+.mid-page .bottone{
+    background-color: #cd3d0f;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin-top: 10px;
+}
+.mid-page .jumbo{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.darkpart{
+    background-color: #1f1f1f;
 }
