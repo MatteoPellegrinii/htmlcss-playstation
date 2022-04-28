@@ -156,3 +156,6 @@ a{
 footer{
     background-color: #00439c;
 }
+footer a{
+    color: white;
+}
