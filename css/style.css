@@ -11,13 +11,10 @@ header{
     line-height: 58px;
 }
 .cinquantacinque{
-    width: 60%;
     display: flex;
     align-items: center;
 }
-.quaranta{
-    width: 40%;
-}
+
 .bottone{
     border: solid 1px white;
     border-radius: 20px;
